@@ -91,3 +91,40 @@ The system starts with **24 books**, including:
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/Library-Management-System.git
+2. Open solution (.sln) file in Visual Studio.
+
+3. Ensure LibraryDb.mdf is attached in App_Data folder.
+
+4. Update connection string in Web.config or code-behind if needed.
+
+5. Run project (Ctrl + F5).
+
+6. Login as:
+
+ - Admin: admin / admin123
+
+- User: user1 / user123
+
+---
+
+🎥 Screen Recording
+
+A short screen recording demo of the project is included in the repository:
+➡️ View Demo Video
+
+---
+
+🎨 UI Highlights
+
+1. Gradient headers with modern styling.
+2. Book cards with hover effects.
+3. Responsive design using Flexbox.
+4. Separate User Dashboard and Admin Dashboard.
+5. History view with toggle option.
+
+---
+
+👩‍🏫 Author
+
+Developed as a BSc IT Mini Project by Sanita Gaikwad.
+Focus: ASP.NET, SQL Server, Web Development, User Experience.
