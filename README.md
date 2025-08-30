@@ -88,18 +88,15 @@ The system starts with **24 books**, including:
 - **SQL Server LocalDB**
 
 ### Steps to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
-2. Open solution (.sln) file in Visual Studio.
+1. Open solution (.sln) file in Visual Studio.
 
-3. Ensure LibraryDb.mdf is attached in App_Data folder.
+2. Ensure LibraryDb.mdf is attached in App_Data folder.
 
-4. Update connection string in Web.config or code-behind if needed.
+3. Update connection string in Web.config or code-behind if needed.
 
-5. Run project (Ctrl + F5).
+4. Run project (Ctrl + F5).
 
-6. Login as:
+5. Login as:
 
  - Admin: admin / admin123
 
