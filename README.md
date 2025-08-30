@@ -118,8 +118,9 @@ The system starts with **16 books**(more can be added by admin), including:
 
 ## 🎥 Screen Recording
 
-<video src="media/screen_recording.mp4" controls width="600"></video>
-
+<video src="media/Screen Recording 2025-08-31 025936.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
