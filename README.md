@@ -127,4 +127,5 @@ A short screen recording demo of the project is included in the repository:
 👩‍🏫 Author
 
 Developed as a BSc IT Mini Project by Sanita Gaikwad.
+
 Focus: ASP.NET, SQL Server, Web Development, User Experience.
