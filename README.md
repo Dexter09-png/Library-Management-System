@@ -33,6 +33,18 @@ The system allows **users** (students/readers) to borrow and return books, while
 
 ---
 
+## 🔐 Security Features
+- **Password Hashing**:  
+  Admin and User passwords are stored as **hashed values** in the database using `SHA256` for better protection.  
+- **Role-based Authentication**:  
+  Ensures that only Admins can access the Admin Dashboard, while Users are restricted to their own dashboard.  
+- **Session Management**:  
+  Prevents unauthorized access by clearing sessions on logout.  
+- **SQL Parameterization**:  
+  All queries use parameterized commands to prevent **SQL Injection** attacks.
+  
+---
+
 ## 🗄️ Database Design
 
 ### **Users Table**
