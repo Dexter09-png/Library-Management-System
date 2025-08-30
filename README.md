@@ -116,14 +116,14 @@ The system starts with **16 books**(more can be added by admin), including:
 
 ---
 
-🎥 Screen Recording
+## 🎥 Screen Recording
 
-A short screen recording demo of the project is included in the repository:
-➡️ View Demo Video
+<video src="media/screen_recording.mp4" controls width="600"></video>
+
 
 ---
 
-🎨 UI Highlights
+## 🎨 UI Highlights
 
 1. Gradient headers with modern styling.
 2. Book cards with hover effects.
