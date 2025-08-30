@@ -82,7 +82,7 @@ The system allows **users** (students/readers) to borrow and return books, while
 
 ## 📚 Sample Book Data
 
-The system starts with **24 books**, including:  
+The system starts with **16 books**(more can be added by admin), including:  
 - *The Alchemist* – Paulo Coelho  
 - *Harry Potter and the Sorcerer’s Stone* – J.K. Rowling  
 - *Clean Code* – Robert C. Martin  
