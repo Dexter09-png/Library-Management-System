@@ -133,8 +133,10 @@ A short screen recording demo of the project is included in the repository:
 
 ---
 
-👩‍🏫 Author
+## 👥 Contributors
 
-Developed as a BSc IT Mini Project by Sanita Gaikwad.
+- [Dexter09-png](https://github.com/Dexter09-png) – Project Lead, Development & UI  
+- [taqi02](https://github.com/taqi02) – Project Partner, Backend & Database
 
-Focus: ASP.NET, SQL Server, Web Development, User Experience.
+- Developed as a BSc IT Mini Project.
+- Focus: ASP.NET, SQL Server, Web Development, User Experience.
